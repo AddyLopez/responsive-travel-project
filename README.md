@@ -1,2 +1,3 @@
 # responsive-travel-project
-A travel website about Albuquerque employing responsive web development techniques.
+
+A travel website about New Mexico employing responsive web development techniques.
