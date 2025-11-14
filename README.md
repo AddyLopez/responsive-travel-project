@@ -27,3 +27,5 @@ View the professional design spec on Figma: [https://www.figma.com/design/GR0Vka
 ## Project Preview
 
 ![]()
+
+### Photo Attributions
