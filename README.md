@@ -1,6 +1,6 @@
 # responsive-travel-project
 
-**_View this project:_** [https://ai-content-generator-al.netlify.app/](https://ai-content-generator-al.netlify.app/)
+**_View this project:_** [https://new-mexico-travel-project-al.netlify.app/](https://new-mexico-travel-project-al.netlify.app/)
 
 ## Description
 
