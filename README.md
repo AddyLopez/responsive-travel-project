@@ -22,6 +22,8 @@ A travel website about New Mexico employing responsive web development technique
 
 ## Design Spec
 
+View the professional design spec on Figma: [https://www.figma.com/design/GR0VkaqiNbRcSvTkWXGAiZ/SheCodes-Workshop-Material?node-id=0-1&p=f](https://www.figma.com/design/GR0VkaqiNbRcSvTkWXGAiZ/SheCodes-Workshop-Material?node-id=0-1&p=f)
+
 ## Project Preview
 
 ![]()
