@@ -165,6 +165,27 @@ p.mini-title {
   margin: 15px 0 0 0;
 }
 
+.section-3 {
+  padding: 60px;
+}
+
+.section-3-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 30px;
+}
+
+.section-3 .mini-title {
+  text-align: center;
+  color: hsl(0, 0%, 43%);
+  margin: 10px 0;
+}
+
+.section-3 h2 {
+  text-align: center;
+  font-weight: 700;
+}
+
 footer {
   background-image: linear-gradient(
       hsl(189deg 100% 12.47% / 85%),
@@ -265,7 +286,8 @@ a:active {
     aspect-ratio: 1 / 1;
   }
 
-  .section-2-cards {
+  .section-2-cards,
+  .section-3-grid {
     grid-template-columns: 1fr;
     grid-gap: 30px;
   }
@@ -296,8 +318,8 @@ a:active {
     grid-gap: 15px;
   }
 
-  .section-2 {
-    background-color: hsl(0, 0%, 93%);
+  .section-2,
+  .section-3 {
     padding: 30px 15px 45px 15px;
   }
 }
