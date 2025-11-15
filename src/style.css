@@ -83,7 +83,7 @@ img {
 }
 
 .section-1 p {
-  color: hsl(0, 0%, 43%);
+  color: hsl(0, 0%, 38%);
   margin: 10px 0;
 }
 p.mini-title {
@@ -128,7 +128,7 @@ p.mini-title {
 }
 
 .section-2 p {
-  color: hsl(0, 0%, 43%);
+  color: hsl(0, 0%, 38%);
   margin: 10px 0;
 }
 
@@ -178,7 +178,7 @@ p.mini-title {
 }
 
 .section-3 .mini-title {
-  color: hsl(0, 0%, 43%);
+  color: hsl(0, 0%, 38%);
   margin: 10px 0;
   text-align: center;
 }
