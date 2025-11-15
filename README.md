@@ -10,7 +10,7 @@ A travel website about New Mexico employing advanced responsive web development 
 
 - **_CSS:_** advanced responsive web design; media queries; CSS Grid techniques; Flexbox; CSS filter function for photos; custom Google Font; background images with legible text overlaid (using linear-gradient technique); responsive resizing of images; substitution of desktop image for mobile image as appropriate; hover, active, and visited link effects
 
-- **_HTML:_** accessible semantic tags, logical ordering, meta description for SEO, alt text for images, titles for anchor links
+- **_HTML:_** accessible semantic tags, logical ordering, meta description for SEO, alt text for images, titles for anchor links and for embedded iframes
 
 - Coded in VS Code with tools for a **_professional development workflow, version control, and continuous deployment_**, such as Live Server, Git, GitHub, and hosting on Netlify
 
