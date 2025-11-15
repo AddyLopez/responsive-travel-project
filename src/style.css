@@ -150,7 +150,6 @@ p.mini-title {
 .section-2 figure {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  max-height: 100%;
 }
 
 .section-2 img {
@@ -159,6 +158,7 @@ p.mini-title {
 
 .section-2 iframe {
   max-width: 100%;
+  aspect-ratio: 1 / 1;
 }
 
 .section-2 h4 {
@@ -294,5 +294,10 @@ a:active {
   }
   .section-1 {
     grid-gap: 15px;
+  }
+
+  .section-2 {
+    background-color: hsl(0, 0%, 93%);
+    padding: 30px 15px 45px 15px;
   }
 }
