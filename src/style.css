@@ -259,6 +259,20 @@ a:active {
   }
 }
 
+@media only screen and (max-width: 900px) {
+  .section-1 {
+    grid-template-columns: 1fr;
+  }
+
+  .img-mobile {
+    display: inline;
+  }
+
+  .img-desktop {
+    display: none;
+  }
+}
+
 /* medium screens (tablets) */
 @media only screen and (max-width: 768px) {
   header {
@@ -289,7 +303,6 @@ a:active {
 
   .section-1 {
     grid-gap: 35px;
-    grid-template-columns: 1fr;
     padding: 25px 0;
   }
 
@@ -309,14 +322,6 @@ a:active {
   .section-3-grid {
     grid-gap: 30px;
     grid-template-columns: 1fr;
-  }
-
-  .img-mobile {
-    display: inline;
-  }
-
-  .img-desktop {
-    display: none;
   }
 }
 
