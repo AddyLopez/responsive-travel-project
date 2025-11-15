@@ -153,6 +153,7 @@ p.mini-title {
 
 .section-2 img {
   aspect-ratio: 1 / 1;
+  filter: contrast(1.2);
 }
 
 .section-2 iframe {
