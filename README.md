@@ -16,7 +16,7 @@ A travel website about New Mexico employing advanced responsive web development 
 
 ## Accessibility Rating
 
-- **_Accessibility rating_** by Lighthouse audit: / for desktops, / for mobile devices.
+- **_Accessibility rating_** by Lighthouse audit: 93/100 for desktops, 93/100 for mobile devices.
 
 ## Design Spec
 
