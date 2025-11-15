@@ -4,7 +4,7 @@
 
 ## Description
 
-A travel website about New Mexico employing advanced responsive web development techniques, plus embedded content from Instagram and Google Maps. It looks good on large screens, tablets, and mobile devices. The site features historical information about New Mexico, cards I created about National Parks and Monuments, a gallery of social media posts, along with a hero at the top and a footer with links at the bottom.
+A travel website about New Mexico employing advanced responsive web development techniques, plus embedded content from Instagram and Google Maps. It looks good on large screens, tablets, and mobile devices. The site features historical information about New Mexico, cards I created about National Parks and Monuments, a gallery of social media posts, along with a standard hero at the top and a footer with links at the bottom.
 
 ## Coding Features
 
