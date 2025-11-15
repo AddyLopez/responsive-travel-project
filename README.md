@@ -31,3 +31,8 @@ Here is a screenshot from section two of the website, featuring responsive cards
 ![Travel Website Preview](./assets/travel-website-preview.png)
 
 ### Photo Attributions
+
+- Hero image: Photo by Davron Bowman on Unsplash [https://unsplash.com/photos/the-sun-is-setting-over-the-mountains-in-the-desert-sCM4NNMWGJc](https://unsplash.com/photos/the-sun-is-setting-over-the-mountains-in-the-desert-sCM4NNMWGJc)
+- Chaco Canyon image: Photo by Raychel Sanner on Unsplash [https://unsplash.com/photos/brown-brick-wall-with-white-square-frame-sLDoz8ssqtY](https://unsplash.com/photos/brown-brick-wall-with-white-square-frame-sLDoz8ssqtY)
+- Footer image: Photo by Wendy Shervington on Unsplash [https://unsplash.com/photos/a-street-with-cars-parked-on-the-side-of-it-YJI-WI4dJEU](https://unsplash.com/photos/a-street-with-cars-parked-on-the-side-of-it-YJI-WI4dJEU)
+- Photos of Carlsbad Caverns, Bandelier National Monument, and Kasha-Katuwe Tent Rocks National Monument by Addy López
