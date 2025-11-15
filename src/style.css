@@ -147,6 +147,24 @@ p.mini-title {
   padding: 15px;
 }
 
+.section-2 figure {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  max-height: 100%;
+}
+
+.section-2 img {
+  aspect-ratio: 1 / 1;
+}
+
+.section-2 iframe {
+  max-width: 100%;
+}
+
+.section-2 h4 {
+  margin: 15px 0 0 0;
+}
+
 footer {
   background-image: linear-gradient(
       hsl(189deg 100% 12.47% / 85%),
